@@ -30,8 +30,8 @@ Streamlit web application.
 - **26.54%** of customers are churning
 - **Month-to-month** customers churn at 42.7% vs 2.8% for two-year contracts
 - **Fiber Optic** customers churn most at 41.9%
-- **Senior citizens** churn at 41.7% — nearly double non-seniors
-- **Tenure** is the strongest negative predictor — longer stay = less churn
+- **Senior citizens** churn at 41.7% - nearly double non-seniors
+- **Tenure** is the strongest negative predictor - longer stay = less churn
 
 ## 💡 Business Recommendations
 - Push month-to-month customers toward annual contracts
