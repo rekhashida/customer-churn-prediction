@@ -53,5 +53,7 @@ customer-churn-prediction/
 
 ## 👩‍💻 Author
 Rekha Shida | Computer Engineering | Parul University
+
 GitHub: github.com/rekhashida
+
 LinkedIn: linkedin.com/in/rekha-sida-rs576
